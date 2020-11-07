@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Pause length="2"/>
+    <Say>Hello!</Say>
+    <Pause length="2"/>
+    <Say>I have something I'd like to report!</Say>
+    <Pause length="2"/>
+    <Play loop="30">https://files.hostile.site/audio/beepbeep.mp3</Play>
+</Response>
